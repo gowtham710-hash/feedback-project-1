@@ -1,0 +1,22 @@
+
+h2 {
+  color:skyblue; 
+  text-align: center;
+}
+
+.star {
+  font-size: 18px;
+  color: wheat;
+  cursor: pointer;
+  transition: color 0.2s;
+}
+
+.star:hover,
+.star.selected {
+  color: gold;
+}
+
+.card-title {
+  color: #0d6efd; 
+}
+
